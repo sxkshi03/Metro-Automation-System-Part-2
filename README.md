@@ -14,7 +14,11 @@ To develop a PLC-based metro train automation system that simulates the movement
 ### Demonstration Video
 
 * [Metro Automation System Demo](./Metro_Automation_System_Part_2.mp4)
-  
+
+## Working
+
+* [Theory of Operation](./Theory%20of%20Operation.md)
+
 ## Features
 * Automatic train departure and station approach
 * Station detection and automatic brake application
